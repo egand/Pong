@@ -145,6 +145,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\Ball.h" />
+    <ClInclude Include="include\Constants.h" />
     <ClInclude Include="include\Paddle.h" />
     <ClInclude Include="include\Player.h" />
   </ItemGroup>
